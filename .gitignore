@@ -1,0 +1,23 @@
+/DWG
+*pdf
+*.csv
+*.dxf
+*.xlsx
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados
+*.log
+logs/
